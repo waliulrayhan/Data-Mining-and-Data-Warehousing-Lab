@@ -11,52 +11,53 @@ This repository contains practical implementations of various data mining and wa
 ---
 
 ### 1. Diabetes Dataset
-The goal of this task is to predict diabetes based on medical predictor variables.
+Read `diabetes.csv` for diabetes that datasets consist of several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies the
+patient has had, their BMI, insulin level, age, and so on. Experiment with the following issues with python programming language-
 
 #### Tasks:
-- **a)** Display patient information using a pie chart.
-- **b)** Handle missing values using mean for one column, median for another, and mode for a third.
-- **c)** Plot a boxplot of the pre-processed dataset.
-- **d)** Compare the performance of machine learning models like Logistic Regression (LR), Support Vector Machine (SVM), and Decision Tree (DT).
-- **e)** Display the confusion matrix of the models' results.
+- **a)** Show the number of patients information using a pie chart.
+- **b)** Handle missing values using mean value for one column, median for another and mode for 3rd one if (any).
+- **c)** Plot the boxplot of the pre-processed dataset.
+- **d)** Compare the performance results of the ML model like LR, SVM and DT.
+- **e)** Show the confusion matrix of your results.
 
 [View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/1.ipynb)
 
 ---
 
 ### 2. Petrol Consumption Dataset
-This task involves predicting fuel consumption based on various features.
+Read `petrol_consumption.csv` Apply and Experiment with the following issues with python programming language:
 
 #### Tasks:
-- **a)** Predict fuel consumption using multiple linear regression.
-- **b)** Compare results using 70:30 and 80:20 data splits for training.
-- **c)** Show the actual and predicted values in a scatter plot for the 80:20 split.
-- **d)** Calculate the Mean Absolute Error (MAE) for the predictions.
+- **a)** Predict the fuel consumption using multiple linear regression.
+- **b)** Show and compare the results using 70:30, and 80:20 distribution during the training of the dataset.
+- **c)** Show the actual and predicted value in a scatter plot for 80:20 distribution.
+- **d)** Find the Mean Absolute Error.
 
 [View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/2.ipynb)
 
 ---
 
 ### 3. Mall Customers Dataset
-This task focuses on customer segmentation using clustering techniques.
+Load the `Mall_Customers.csv`
 
 #### Tasks:
-- **a)** Visualize the male and female customer spending scores.
-- **b)** Determine the optimal number of clusters using the elbow method.
-- **c)** Apply k-means clustering with 4 and 5 clusters.
-- **d)** Visualize the clustering results graphically.
+- **a)** Visualize male and female customer spending scores.
+- **b)** Find the ideal number of k using the elbow method.
+- **c)** Apply k-means clustering using 4 clusters and 5 clusters.
+- **d)** Draw the graph.
 
 [View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/3.ipynb)
 
 ---
 
 ### 4. Marks Dataset
-The focus of this task is to analyze students' academic performance.
+Load the `Marks.csv` file. Then do the following:
 
 #### Tasks:
-- **a)** Display the first and third quartiles of all subjects.
-- **b)** Find the standard deviation and variance of each subject.
-- **c)** Provide a summary of the dataset.
+- **a)** Write the statement to display the first and third quartiles of all subjects
+- **b)** Find the standard deviation and variance of each subject
+- **c)** Find the summary of the data
 
 [View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/4.ipynb)
 
