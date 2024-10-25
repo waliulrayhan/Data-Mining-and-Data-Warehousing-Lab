@@ -20,7 +20,7 @@ The goal of this task is to predict diabetes based on medical predictor variable
 - **d)** Compare the performance of machine learning models like Logistic Regression (LR), Support Vector Machine (SVM), and Decision Tree (DT).
 - **e)** Display the confusion matrix of the models' results.
 
-[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Diabetes_Prediction.ipynb)
+[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/1.ipynb)
 
 ---
 
@@ -33,7 +33,7 @@ This task involves predicting fuel consumption based on various features.
 - **c)** Show the actual and predicted values in a scatter plot for the 80:20 split.
 - **d)** Calculate the Mean Absolute Error (MAE) for the predictions.
 
-[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Petrol_Consumption_Prediction.ipynb)
+[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/2.ipynb)
 
 ---
 
@@ -46,7 +46,7 @@ This task focuses on customer segmentation using clustering techniques.
 - **c)** Apply k-means clustering with 4 and 5 clusters.
 - **d)** Visualize the clustering results graphically.
 
-[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Mall_Customers_Clustering.ipynb)
+[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/3.ipynb)
 
 ---
 
@@ -58,7 +58,7 @@ The focus of this task is to analyze students' academic performance.
 - **b)** Find the standard deviation and variance of each subject.
 - **c)** Provide a summary of the dataset.
 
-[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Marks_Analysis.ipynb)
+[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/4.ipynb)
 
 ---
 
