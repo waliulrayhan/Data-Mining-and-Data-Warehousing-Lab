@@ -3,10 +3,10 @@
 This repository contains practical implementations of various data mining and warehousing tasks. The projects utilize machine learning models, data preprocessing techniques, and clustering algorithms on different datasets like medical records, fuel consumption, customer segmentation, and academic performance.
 
 ## Table of Contents
-1. [Diabetes Dataset](#diabetes-dataset)
-2. [Petrol Consumption Dataset](#petrol-consumption-dataset)
-3. [Mall Customers Dataset](#mall-customers-dataset)
-4. [Marks Dataset](#marks-dataset)
+1. [Diabetes Dataset](#1-diabetes-dataset)
+2. [Petrol Consumption Dataset](#2-petrol-consumption-dataset)
+3. [Mall Customers Dataset](#3-mall-customers-dataset)
+4. [Marks Dataset](#4-marks-dataset)
 
 ---
 
@@ -20,6 +20,8 @@ The goal of this task is to predict diabetes based on medical predictor variable
 - **d)** Compare the performance of machine learning models like Logistic Regression (LR), Support Vector Machine (SVM), and Decision Tree (DT).
 - **e)** Display the confusion matrix of the models' results.
 
+[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Diabetes_Prediction.ipynb)
+
 ---
 
 ### 2. Petrol Consumption Dataset
@@ -30,6 +32,8 @@ This task involves predicting fuel consumption based on various features.
 - **b)** Compare results using 70:30 and 80:20 data splits for training.
 - **c)** Show the actual and predicted values in a scatter plot for the 80:20 split.
 - **d)** Calculate the Mean Absolute Error (MAE) for the predictions.
+
+[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Petrol_Consumption_Prediction.ipynb)
 
 ---
 
@@ -42,6 +46,8 @@ This task focuses on customer segmentation using clustering techniques.
 - **c)** Apply k-means clustering with 4 and 5 clusters.
 - **d)** Visualize the clustering results graphically.
 
+[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Mall_Customers_Clustering.ipynb)
+
 ---
 
 ### 4. Marks Dataset
@@ -51,6 +57,8 @@ The focus of this task is to analyze students' academic performance.
 - **a)** Display the first and third quartiles of all subjects.
 - **b)** Find the standard deviation and variance of each subject.
 - **c)** Provide a summary of the dataset.
+
+[View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Marks_Analysis.ipynb)
 
 ---
 
