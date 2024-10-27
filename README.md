@@ -7,6 +7,10 @@ This repository contains practical implementations of various data mining and wa
 2. [Petrol Consumption Dataset](#2-petrol-consumption-dataset)
 3. [Mall Customers Dataset](#3-mall-customers-dataset)
 4. [Marks Dataset](#4-marks-dataset)
+5. [Label Encoding](#5-label-encoding)
+6. [One Hot Encoding](#6-one-hot-encoding)
+7. [LR_SVM_DT_KNN_MLP_RF_GB_LGB](#7-lr_svm_dt_knn_mlp_rf_gb_lgb)
+8. [Assignment](#8-assignment)
 
 ---
 
@@ -62,6 +66,50 @@ Load the `Marks.csv` file. Then do the following:
 [View the Jupyter Notebook for this task](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/4.ipynb)
 
 ---
+
+### 5. Label Encoding
+It covers the Label Encoding technique to transform categorical data into a numerical format.
+
+#### Tasks:
+- Apply Label Encoding to categorical variables in datasets.
+- Visualize the transformations.
+  
+[View the Label Encoding Notebook](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Label%20Encoding/label_encoding.ipynb)
+
+---
+
+### 6. One Hot Encoding
+This section focuses on One Hot Encoding for converting categorical data into a format suitable for machine learning algorithms.
+
+#### Tasks:
+- Apply One Hot Encoding to transform categorical variables.
+- Show how to handle categorical features in machine learning pipelines.
+
+[View the One Hot Encoding Notebook](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/One%20Hot%20Encoding/one_hot_encoding.ipynb)
+
+---
+
+### 7. LR_SVM_DT_KNN_MLP_RF_GB_LGB
+This section focuses on the performance comparison of multiple classifiers such as Logistic Regression (LR), SVM, Decision Trees, KNN, MLP, Random Forest (RF), Gradient Boosting (GB), and LightGBM (LGB).
+
+#### Tasks:
+- Train multiple classifiers on the diabetes dataset.
+- Compare the performance using accuracy, confusion matrix, and F1 score.
+- Plot the results for visualization.
+
+[View the Classifier Comparison Notebook](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/LR_SVM_DT_KNN_MLP_RF_GB_LGB/Classification_diabetes.ipynb)
+
+---
+
+### 8. Assignment
+This assignment focuses on applying data preprocessing techniques to a dataset.
+
+#### Tasks:
+- Implement Label Encoding and One Hot Encoding to handle categorical data.
+- Plot correlation heatmaps to visualize relationships between variables.
+- Apply standardization to scale features for model training.
+
+[View the Assignment Notebook](https://github.com/nishatrhythm/Data-Mining-and-Data-Warehousing-Lab/blob/main/Assignment/Assignment.ipynb)
 
 ## Getting Started
 
